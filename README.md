@@ -1,10 +1,10 @@
 # Employee-Retention-Model 
 
-AIM / OBJECTIVE 
+# AIM / OBJECTIVE 
 
 The project revolves around the idea to give basic modelling techniques used to classify if the employee will leave the company or not based on certain features in the datset.
 
-FOLDERS
+# FOLDERS
 
 1. Dataset : This folder contains the dataset used for the analysis and modelling. It has 2 datsets one from HR of the commpany and one from employees.
 
@@ -12,7 +12,7 @@ FOLDERS
 
 3. Images : This folder contains few of the insights i drew from analysis and visual modeling comparision.
 
-DESCRIPTION AND STEPS
+# DESCRIPTION AND STEPS
 
 1 .This project contains the python colab notebook for employee retention project which includes
 
@@ -28,7 +28,8 @@ DESCRIPTION AND STEPS
 
 7. Evaluation of Different Models
 
-   LIBRARIES USED
+  # LIBRARIES USED
+  
 The libraries used are :
 
 Pandas
@@ -37,7 +38,8 @@ Sklearn
 Seaborn
 Matplotlib
 
-CONCLUSION
+# CONCLUSION
+
 The conclusion one could draw from the analysis is :
 
 1. Most of the employees who didn't got promotion in the last few years and whose salary wasn't increased left the company.
