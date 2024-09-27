@@ -8,17 +8,17 @@ The project revolves around the idea to give basic modelling techniques used to 
 
 1. Dataset : This folder contains the dataset used for the analysis and modelling. It has 2 datsets one from HR of the commpany and one from employees.
 
-2. Models : This folder contains the colab notebook prepared using different classification models like decision trees , random forest , KNN and logistic regression .
+ 2. Models : This folder contains the colab notebook prepared using different classification models like decision trees , random forest , KNN and logistic regression .
 
-3. Images : This folder contains few of the insights i drew from analysis and visual modeling comparision.
+   3. Images : This folder contains few of the insights i drew from analysis and visual modeling comparision.
 
 # DESCRIPTION AND STEPS
 
-1 .This project contains the python colab notebook for employee retention project which includes
+1. This project contains the python colab notebook for employee retention project which includes
 
 2. Loading and Exploring dataset
 
-3 .Merging datasets
+3. Merging datasets
 
 4. Exploratory Data Analysis
 
@@ -28,15 +28,15 @@ The project revolves around the idea to give basic modelling techniques used to 
 
 7. Evaluation of Different Models
 
-  # LIBRARIES USED
+ # LIBRARIES USED
   
 The libraries used are :
 
-Pandas
-Numpy
-Sklearn
-Seaborn
-Matplotlib
+Pandas ,
+Numpy ,
+Sklearn ,
+Seaborn ,
+Matplotlib . 
 
 # CONCLUSION
 
